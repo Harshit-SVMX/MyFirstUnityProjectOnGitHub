@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: cccd38fb451fa4f65934f7fea1a61b19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1099139708962618792
+    second: gangnam_0
+  - first:
+      213: -2464379875249254553
+    second: gangnam_1
+  - first:
+      213: -72747850066299837
+    second: gangnam_2
+  - first:
+      213: 1615119787930823752
+    second: gangnam_3
+  - first:
+      213: 538858014428231067
+    second: gangnam_4
+  - first:
+      213: -3288335108736514056
+    second: gangnam_5
+  - first:
+      213: -6486278322228024266
+    second: gangnam_6
+  - first:
+      213: -6715492984214078130
+    second: gangnam_7
+  - first:
+      213: -6225835781720916569
+    second: gangnam_8
+  - first:
+      213: -5090460689262617142
+    second: gangnam_9
+  - first:
+      213: 6227977138049545567
+    second: gangnam_10
+  - first:
+      213: 1067885102608292838
+    second: gangnam_11
+  - first:
+      213: -8123530704499705230
+    second: gangnam_12
+  - first:
+      213: -2230754704347521340
+    second: gangnam_13
+  - first:
+      213: 4234449164886359956
+    second: gangnam_14
+  - first:
+      213: 1247705123253298212
+    second: gangnam_15
+  - first:
+      213: 3362863670594735878
+    second: gangnam_16
+  - first:
+      213: 8618241175788722071
+    second: gangnam_17
+  - first:
+      213: -9175543925525556791
+    second: gangnam_18
+  - first:
+      213: -5715582145349150987
+    second: gangnam_19
+  - first:
+      213: -6467057220304414939
+    second: gangnam_20
+  - first:
+      213: -5878619465042647962
+    second: gangnam_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gangnam_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 135
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852c1c812421fb0f0800000000000000
+      internalID: -1099139708962618792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 174
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f85207f83cccdd0800000000000000
+      internalID: -2464379875249254553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 136
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344ff9e373c8dfef0800000000000000
+      internalID: -72747850066299837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_3
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 139
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c225dc3ee0a6610800000000000000
+      internalID: 1615119787930823752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 172
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95fd5652886a7700800000000000000
+      internalID: 538858014428231067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_5
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 138
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7805514ac7d52d0800000000000000
+      internalID: -3288335108736514056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_6
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 0
+        width: 136
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c28415b3c1cf5a0800000000000000
+      internalID: -6486278322228024266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_7
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 0
+        width: 173
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dba4806b6cdc2a0800000000000000
+      internalID: -6715492984214078130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_8
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 0
+        width: 138
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adbb98a7536999a0800000000000000
+      internalID: -6225835781720916569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_9
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 0
+        width: 173
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd596939fc0b59b0800000000000000
+      internalID: -5090460689262617142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_10
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 0
+        width: 136
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5572b6b5383e6650800000000000000
+      internalID: 6227977138049545567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_11
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 0
+        width: 138
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb16e9c7d3e1de00800000000000000
+      internalID: 1067885102608292838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_12
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 0
+        width: 172
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27af0545ddb634f80800000000000000
+      internalID: -8123530704499705230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_13
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 0
+        width: 138
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce955a5a64ca01e0800000000000000
+      internalID: -2230754704347521340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_14
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 0
+        width: 137
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f30849419c3ca30800000000000000
+      internalID: 4234449164886359956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_15
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 0
+        width: 173
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424a2ffe23db05110800000000000000
+      internalID: 1247705123253298212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_16
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 0
+        width: 138
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f8dd1f0ba4bae20800000000000000
+      internalID: 3362863670594735878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_17
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 0
+        width: 138
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797188f10b42a9770800000000000000
+      internalID: 8618241175788722071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_18
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 0
+        width: 174
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c15e02f96be9a080800000000000000
+      internalID: -9175543925525556791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_19
+      rect:
+        serializedVersion: 2
+        x: 4227
+        y: 0
+        width: 138
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f616ed325c2ea0b0800000000000000
+      internalID: -5715582145349150987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_20
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 0
+        width: 172
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52751a9d8b56046a0800000000000000
+      internalID: -6467057220304414939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangnam_21
+      rect:
+        serializedVersion: 2
+        x: 4678
+        y: 0
+        width: 135
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664af682eb2fa6ea0800000000000000
+      internalID: -5878619465042647962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9372a01300ae4f9f8c1053fc6cb980d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
